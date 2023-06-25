@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgealexanderday
 - Computer Science BSc - University of St Andrews 
-- AI & Datascience - NCH at Northeastern
+- AI & Datascience - Northeastern Univeristy - London
 
 <!---
 georgealexanderday/georgealexanderday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
